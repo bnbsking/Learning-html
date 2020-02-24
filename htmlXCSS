@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+	<head>
+		<title>
+			Bobo
+		</title>
+		<link rel="stylesheet" href="a.css">		
+	</head>
+	<body>
+		<div id="myid">
+			<p class="myclass">
+				first paragraph <myem> hello </myem>
+			</p>
+		<p class="example">
+			second paragraph
+			<span class="sub">
+				subscript
+			</span>
+		</p>
+		<table border="1" cellpadding="2" cellspacing="0" style="height:150px;">
+			<tr>
+				<td class="top">Top</td>
+				<td class="middle">Middle</td>
+				<td class="bottom">Bottom</td>
+			</tr>
+		</table>
+		
+	</body>
+</html>
+
+<!-- ... 這裡是註解文字 ... 
+<style>p{color:white; background-color:gray;}</style> internal CSS all
+-->
