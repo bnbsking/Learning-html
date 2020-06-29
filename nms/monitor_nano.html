@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Nano 後台管理系統</title>
+        <script src="{{url_for('static', filename='jquery-3.5.1.js')}}">
+            </script>
+    </head>
+    <body>
+        <div> You are monitor group {{group_no}} nano {{ID}} </div>
+        
+        <div> {{data}} </div>
+
+        <div> {{prediction}} </div>
+
+        <div> {{CPU}} </div>
+
+        <div> {{memory}} </div>
+        
+        <div id="d"> apple </div>
+        
+        <script>
+            $(function(){$("#d").html("HELLO");});
+            </script>
+        
+    </body>
+</html>
