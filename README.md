@@ -6,6 +6,8 @@ Hello world <br>
 ~~兩個波浪是刪除線~~ <br>
 <u>bracket u 是底線</u> <br>
 
+<font color="#dd0000">浅红色文字：</font><br /> 
+
 <font color=#800000>酒紅色</font>
 
 <font color=#FF6600>橘色</font>
