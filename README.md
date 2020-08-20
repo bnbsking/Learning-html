@@ -6,10 +6,7 @@ Hello world <br>
 ~~兩個波浪是刪除線~~ <br>
 <u>bracket u 是底線</u> <br>
 
-<font color="#dd0000">浅红色文字：</font><br /> 
-
 <font color=#800000>酒紅色</font>
-
 <font color=#FF6600>橘色</font>
 <font color=#FFFF00>黃色</font>
 <font color=#008000>墨綠色</font>
@@ -35,8 +32,7 @@ print("Hello world")
 + This is second item
 	+ This is second-first item
 
-
-[google](https://www.google.com)
+[google link](https://www.google.com)
 ![Google首頁Logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
 | 預設對齊 | 靠左對齊 | 靠右對齊 | 置中對齊 |
