@@ -4,7 +4,8 @@ Hello world <br>
 **兩個星是粗體** <br>
 ***三個星是斜粗體*** <br>
 ~~兩個波浪是刪除線~~ <br>
-<u>bracket u 是底線</u> <br>
+
+<u>bracket u 是底線</u>
 
 <font color=#800000>酒紅色</font>
 <font color=#FF6600>橘色</font>
